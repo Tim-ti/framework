@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="111.021" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-12-29T15:15:04" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Adding and deleting items from cart." timestamp="2022-12-29T15:15:04" tests="1" file="D:\framework\framework-main\tests\addProduct.spec.js" time="25.001" failures="0">
+    <testcase name="Adding and deleting items from cart. Should add exact product to the cart." time="14.300" classname="Should add exact product to the cart.">
+    </testcase>
+  </testsuite>
+  <testsuite name="Adding and deleting items from cart." timestamp="2022-12-29T15:15:29" tests="1" file="D:\framework\framework-main\tests\delitItem.spec.js" time="30.018" failures="0">
+    <testcase name="Adding and deleting items from cart. Check the information in the cart." time="22.387" classname="Check the information in the cart.">
+    </testcase>
+  </testsuite>
+  <testsuite name="Adding and deleting items from cart." timestamp="2022-12-29T15:15:59" tests="1" file="D:\framework\framework-main\tests\orderCheck.spec.js" time="23.281" failures="0">
+    <testcase name="Adding and deleting items from cart. Check the information in the cart." time="16.127" classname="Check the information in the cart.">
+    </testcase>
+  </testsuite>
+  <testsuite name="Adding and deleting items from cart." timestamp="2022-12-29T15:16:22" tests="1" file="D:\framework\framework-main\tests\ordering.spec.js" time="32.720" failures="0">
+    <testcase name="Adding and deleting items from cart. Check the information in the cart." time="23.314" classname="Check the information in the cart.">
+    </testcase>
+  </testsuite>
+</testsuites>

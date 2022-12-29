@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="29.418" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-12-29T15:04:01" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Adding and deleting items from cart." timestamp="2022-12-29T15:04:01" tests="1" file="D:\framework\framework-main\tests\orderCheck.spec.js" time="29.416" failures="0">
+    <testcase name="Adding and deleting items from cart. Check the information in the cart." time="20.517" classname="Check the information in the cart.">
+    </testcase>
+  </testsuite>
+</testsuites>
